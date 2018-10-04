@@ -1,0 +1,8 @@
+D:\Projects\2018.DesignPatterns\AVL-tree\BalancedBinaryTree\bin\Debug\netcoreapp2.1\BalancedBinaryTree.deps.json
+D:\Projects\2018.DesignPatterns\AVL-tree\BalancedBinaryTree\bin\Debug\netcoreapp2.1\BalancedBinaryTree.dll
+D:\Projects\2018.DesignPatterns\AVL-tree\BalancedBinaryTree\bin\Debug\netcoreapp2.1\BalancedBinaryTree.pdb
+D:\Projects\2018.DesignPatterns\AVL-tree\BalancedBinaryTree\obj\Debug\netcoreapp2.1\BalancedBinaryTree.csproj.CoreCompileInputs.cache
+D:\Projects\2018.DesignPatterns\AVL-tree\BalancedBinaryTree\obj\Debug\netcoreapp2.1\BalancedBinaryTree.AssemblyInfoInputs.cache
+D:\Projects\2018.DesignPatterns\AVL-tree\BalancedBinaryTree\obj\Debug\netcoreapp2.1\BalancedBinaryTree.AssemblyInfo.cs
+D:\Projects\2018.DesignPatterns\AVL-tree\BalancedBinaryTree\obj\Debug\netcoreapp2.1\BalancedBinaryTree.dll
+D:\Projects\2018.DesignPatterns\AVL-tree\BalancedBinaryTree\obj\Debug\netcoreapp2.1\BalancedBinaryTree.pdb
